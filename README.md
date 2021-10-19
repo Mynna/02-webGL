@@ -1,1 +1,1 @@
-# 02-webGl
+# 02-webgl-quadrat
